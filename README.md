@@ -11,7 +11,7 @@ cd proot
 ```
 # Install Ubuntu
 ```bash
-bash proot-en.sh    
+bash proot-en.sh          # Install Ubuntu-proot
 ```
 ```
 ubuntu-root               # Enter Ubuntu as root

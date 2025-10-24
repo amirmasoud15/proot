@@ -11,22 +11,8 @@ cd proot
 ```
 # Install Ubuntu
 ```bash
-bash proot-en.sh          # Install Ubuntu-proot
+bash winlator.sh          # Install winlator
 ```
-```
-ubuntu-root               # Enter Ubuntu as root
-```
-```
-bash /root/user-en.sh     # Create user
-```
-```
-bash /root/end-en.sh      # Install desktop & apps
-```
-```
-ubuntu                    # Start Ubuntu with your user
-```
-
-
 ## 🎯 Features
 ✅ **proot-distro** (Official Termux tool) • ✅ **XFCE Desktop** • ✅ **VNC Server** • ✅ **Firefox** • ✅ **Wine + Box64/86**
 
